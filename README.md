@@ -16,6 +16,11 @@ A Minesweeper game running in the Unreal Editor made completely in C++
 
 # Credit
 
+## Inspiration
+- https://www.youtube.com/watch?v=CTAtRtUxQVg
+- https://github.com/Daekesh/KeshSweeper
+- https://github.com/captainzonks/MinesweeperUnrealPlugin
+
 ## Icons
 - https://commons.wikimedia.org/wiki/File:Minesweeper_flag.svg
 - https://github.com/andreasisnes/pygame-minesweeper-sprites/blob/master/minesweeper/images/tiles/95.png
