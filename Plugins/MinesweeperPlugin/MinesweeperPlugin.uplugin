@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "MinesweeperPlugin",
-	"Description": "Technical Task for GeoTech",
+	"Description": "A Minesweeper game running in the Unreal Editor made completely in C++",
 	"Category": "Other",
 	"CreatedBy": "Shuken Modnin",
 	"CreatedByURL": "",
